@@ -80,23 +80,53 @@ Your dataset files must follow this exact JSON structure:
 ```json
 [
     {
-        "instruction": "Classify this article as one of these three topics: politics, science, sports.",
-        "input": "A new study by the National Institutes of Health shows that drinking green tea helps reduce the risk of cancer.",
+        "instruction": "Summarize the given text into one sentence.",
+        "input": "Artificial Intelligence is transforming industries by automating tasks, enhancing decision-making, and improving user experiences across sectors like healthcare, finance, and education.",
         "output": ""
     },
     {
-        "instruction": "Select the correct answer from a list",
-        "input": "What is the second planet from the Sun?",
+        "instruction": "Translate the following English sentence into French.",
+        "input": "The weather is beautiful today.",
         "output": ""
     },
     {
-        "instruction": "Analyze the following book excerpt and explain how irony is used.",
-        "input": "He was only trying to help his family, but instead he caused more harm than good.",
+        "instruction": "Write a Python function that reverses a string.",
+        "input": "",
         "output": ""
     },
     {
-        "instruction": "Generate a news headline that communicates the story below.",
-        "input": "The strong academic performance of students participating in the Science, Technology, Engineering and Mathematics (STEM) program at Loyola Highschool was recently highlighted by local media outlets.",
+        "instruction": "Generate three creative business name ideas for a coffee shop.",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the given text as Positive, Negative, or Neutral.",
+        "input": "I really love the new phone update; it runs faster and looks amazing!",
+        "output": ""
+    },
+    {
+        "instruction": "Write a short poem about the sunset.",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Explain the concept of machine learning in simple terms.",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Convert the following temperature from Celsius to Fahrenheit.",
+        "input": "25°C",
+        "output": ""
+    },
+    {
+        "instruction": "Write a SQL query to select all users who registered in the last 30 days.",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Create a short ad copy for an eco-friendly water bottle brand.",
+        "input": "",
         "output": ""
     }
 ]
@@ -107,7 +137,7 @@ Your dataset files must follow this exact JSON structure:
 | Field | Description | Required |
 |-------|-------------|----------|
 | `instruction` | The task or prompt for the model | ✅ Yes |
-| `input` | The input data/context | ✅ Yes |
+| `input` | The input data/context | ✅ Optional — Yes if the task depends on context|
 | `output` | The generated response (leave empty for generation) | ✅ Yes |
 
 ## 📁 Directory Structure
