@@ -1,0 +1,252 @@
+[
+    {
+        "instruction": "Rewrite the sentence grammaticallyo correct",
+        "input": "that book is the most inspiring",
+        "output": ""
+    },
+    {
+        "instruction": "Classify this sentence as True or False.",
+        "input": "The capital of Spain is Madrid.",
+        "output": ""
+    },
+    {
+        "instruction": "What is the rhyme scheme for this poem?",
+        "input": "Twinkle, twinkle little star\nHow I wonder what you are\nUp above the world so high\nLike a diamond in the sky",
+        "output": ""
+    },
+    {
+        "instruction": "Generate an acrostic poem.",
+        "input": "Spring",
+        "output": ""
+    },
+    {
+        "instruction": "Identify the source of this metaphor.",
+        "input": "\"All the world's a stage, and all the men and women merely players.\"",
+        "output": ""
+    },
+    {
+        "instruction": "Figure out the type of this sentence.",
+        "input": "The cat sat on the mat.",
+        "output": ""
+    },
+    {
+        "instruction": "Generate a musical piece to reflect a specific emotion.",
+        "input": "Emotion: Eager anticipation",
+        "output": ""
+    },
+    {
+        "instruction": "Classify a piece of text as either neutral, positive, or negative.",
+        "input": "\"This new way of thinking is amazing!\"",
+        "output": ""
+    },
+    {
+        "instruction": "Generate a wish for someone's birthday.",
+        "input": "Recipient: My Best Friend",
+        "output": ""
+    },
+    {
+        "instruction": "Given a text, suggest the right audience for the text.",
+        "input": "This article talks about the importance of maintaining healthy eating habits.",
+        "output": ""
+    },
+    {
+        "instruction": "Given an article, summarize it in less than 100 words.",
+        "input": "Article about the importance of genetic engineering in the medical field.",
+        "output": ""
+    },
+    {
+        "instruction": "Given a list of items, find the outlier.",
+        "input": "Dog, Cat, Ant, Snake, Crocodile",
+        "output": ""
+    },
+    {
+        "instruction": "Categorize a website into one of the following categories: E-commerce, News, or Education.",
+        "input": "Website: Amazon",
+        "output": ""
+    },
+    {
+        "instruction": "Address a letter to someone.",
+        "input": "Person: Dr. Laura Smith",
+        "output": ""
+    },
+    {
+        "instruction": "Given a text, suggest a potential headline for it.",
+        "input": "This text is about the effects of climate change on the environment.",
+        "output": ""
+    },
+    {
+        "instruction": "Generate a response for a customer's complaint.",
+        "input": "Complaint: The product did not work as described.",
+        "output": ""
+    },
+    {
+        "instruction": "Find the meaning of an idiom.",
+        "input": "Idiom: A penny for your thoughts",
+        "output": ""
+    },
+    {
+        "instruction": "Compare and contrast two given programming languages",
+        "input": "Go and Python",
+        "output": ""
+    },
+    {
+        "instruction": "Categorize the following toy into its appropriate age group",
+        "input": "Remote Controlled Racecar",
+        "output": ""
+    },
+    {
+        "instruction": "Calculate the amount of money in coins if 44 dollars is given in quarters, nickels, and dimes",
+        "input": "44 dollars",
+        "output": ""
+    },
+    {
+        "instruction": "Convert 23 kilograms to pounds",
+        "input": "23 kilograms",
+        "output": ""
+    },
+    {
+        "instruction": "Sum up the main points of the given paragraph.",
+        "input": "One of the main components of educational technology is data-driven instruction (DDI). This type of instruction uses data to provide learners with personalized learning experiences that are tailored to their needs. DDI can improve the efficiency of instruction by helping teachers identify which topics students need help with and honing in on those topics to increase student engagement and achievement.",
+        "output": ""
+    },
+    {
+        "instruction": "Summarise the following paragraph",
+        "input": "Gene therapy is a technique used to treat genetic disorders by replacing defective or missing genes with functioning healthy copies. This therapy is also used to introduce beneficial or corrective genes into a patient’s body, helping to combat certain diseases or help the body resist them.",
+        "output": ""
+    },
+    {
+        "instruction": "Generate a response plan for the following scenario",
+        "input": "Your company just announced a new product launch.",
+        "output": ""
+    },
+    {
+        "instruction": "Choose the most appropriate synonym to fill in the blank.",
+        "input": "The man was filled with a sense of _______ as he skipped out of the room.",
+        "output": ""
+    },
+    {
+        "instruction": "Convert the sentence from active to passive.",
+        "input": "Jack planted a tree.",
+        "output": ""
+    },
+    {
+        "instruction": "Find a word in the sentence that means the same thing as the highlighted word.",
+        "input": "He was in an enviable situation.",
+        "output": ""
+    },
+    {
+        "instruction": "Extract only the street address from the following text.",
+        "input": "I live at 1234 Main Street, Anytown, CA 94111.",
+        "output": ""
+    },
+    {
+        "instruction": "Convert the following phrase in upper case.",
+        "input": "I love technology",
+        "output": ""
+    },
+    {
+        "instruction": "Classify the sentiment in the given sentence.",
+        "input": "I am so excited to go on this trip!",
+        "output": ""
+    },
+    {
+        "instruction": "Rewrite the given sentence to make it more expressive.",
+        "input": "She was caught in the rain.",
+        "output": ""
+    },
+    {
+        "instruction": "Find the mistakes in this sentence and correct them",
+        "input": "Betty and Jack has been friends for year.",
+        "output": ""
+    },
+    {
+        "instruction": "You are a language model that has just given an incorrect definition of a word. Here is the definition you provided, correct it:",
+        "input": "Misdefinition: 'Photosynthesis is the process by which animals convert food into energy within their cells.'",
+        "output": ""
+    },
+    {
+        "instruction": "Transform this statement into a rhetorical question",
+        "input": "I'm having a hard time understanding this concept.",
+        "output": ""
+    },
+    {
+        "instruction": "Flag any potential ethical issues in the given statement.",
+        "input": "The company chose to prioritize profits instead of the safety of their workers.",
+        "output": ""
+    },
+    {
+        "instruction": "Identify the relationship between the following pair of words, and explain the thought process in deriving the connection:",
+        "input": "giraffe, tall",
+        "output": ""
+    },
+    {
+        "instruction": "Given a string, return the characters that occurs only once.",
+        "input": "hello",
+        "output": ""
+    },
+    {
+        "instruction": "Given the following input, generate a list of three adjectives that describe the input.",
+        "input": "Halloween",
+        "output": ""
+    },
+    {
+        "instruction": "Classify the following sentence as praise, criticism, advice, or request.",
+        "input": "Please be sure to arrive on time.",
+        "output": ""
+    },
+    {
+        "instruction": "Find and correct 2 grammar mistakes in the following sentence.",
+        "input": "The students have rapidly improve their literacy over the last year.",
+        "output": ""
+    },
+    {
+        "instruction": "Delete all irrelevant content from the given article.",
+        "input": "The article discusses the implications of Brexit for the UK economy.",
+        "output": ""
+    },
+    {
+        "instruction": "Could you pick a set of five songs which will fit our theme?",
+        "input": "A summer night's party",
+        "output": ""
+    },
+    {
+        "instruction": "Summarize the key findings of the study.",
+        "input": "The study demonstrated that Artificial Intelligence can accurately detect Covid-19 using deep learning methods.",
+        "output": ""
+    },
+    {
+        "instruction": "Identify the nouns in the following sentence: \"My dog loves to chase sticks and fetch balls\".",
+        "input": "My dog loves to chase sticks and fetch balls",
+        "output": ""
+    },
+    {
+        "instruction": "Edit the following sentence for proper grammar: \"She was wrote a book\".",
+        "input": "She was wrote a book",
+        "output": ""
+    },
+    {
+        "instruction": "Generate a creative way to improve the user experience when using a certain product or system.",
+        "input": "Grocery delivery app",
+        "output": ""
+    },
+    {
+        "instruction": "Compare the independence of two countries.",
+        "input": "USA and Canada",
+        "output": ""
+    },
+    {
+        "instruction": "Given a material, describe a process or recipe on how to make it.",
+        "input": "Cement",
+        "output": ""
+    },
+    {
+        "instruction": "Create a search query for finding a product.",
+        "input": "Analysis software",
+        "output": ""
+    },
+    {
+        "instruction": "Given a similar couplet, complete it.",
+        "input": "Life is like a river",
+        "output": ""
+    }
+]
